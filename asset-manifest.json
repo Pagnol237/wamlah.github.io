@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/https//pagnol237.github.io/app-landing-page/static/css/main.0ab22ed5.chunk.css",
+    "main.js": "/https//pagnol237.github.io/app-landing-page/static/js/main.4d47694d.chunk.js",
+    "main.js.map": "/https//pagnol237.github.io/app-landing-page/static/js/main.4d47694d.chunk.js.map",
+    "runtime-main.js": "/https//pagnol237.github.io/app-landing-page/static/js/runtime-main.d29fda80.js",
+    "runtime-main.js.map": "/https//pagnol237.github.io/app-landing-page/static/js/runtime-main.d29fda80.js.map",
+    "static/css/2.ae9e5f60.chunk.css": "/https//pagnol237.github.io/app-landing-page/static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.4a223154.chunk.js": "/https//pagnol237.github.io/app-landing-page/static/js/2.4a223154.chunk.js",
+    "static/js/2.4a223154.chunk.js.map": "/https//pagnol237.github.io/app-landing-page/static/js/2.4a223154.chunk.js.map",
+    "static/js/3.0559319c.chunk.js": "/https//pagnol237.github.io/app-landing-page/static/js/3.0559319c.chunk.js",
+    "static/js/3.0559319c.chunk.js.map": "/https//pagnol237.github.io/app-landing-page/static/js/3.0559319c.chunk.js.map",
+    "index.html": "/https//pagnol237.github.io/app-landing-page/index.html",
+    "static/css/2.ae9e5f60.chunk.css.map": "/https//pagnol237.github.io/app-landing-page/static/css/2.ae9e5f60.chunk.css.map",
+    "static/css/main.0ab22ed5.chunk.css.map": "/https//pagnol237.github.io/app-landing-page/static/css/main.0ab22ed5.chunk.css.map",
+    "static/js/2.4a223154.chunk.js.LICENSE.txt": "/https//pagnol237.github.io/app-landing-page/static/js/2.4a223154.chunk.js.LICENSE.txt",
+    "static/media/Bonjour.b0371de3.png": "/https//pagnol237.github.io/app-landing-page/static/media/Bonjour.b0371de3.png",
+    "static/media/Imagebg.8a6c8105.png": "/https//pagnol237.github.io/app-landing-page/static/media/Imagebg.8a6c8105.png",
+    "static/media/Personnage1.87affd5d.png": "/https//pagnol237.github.io/app-landing-page/static/media/Personnage1.87affd5d.png",
+    "static/media/Phone.4cf6beb9.png": "/https//pagnol237.github.io/app-landing-page/static/media/Phone.4cf6beb9.png",
+    "static/media/olinecourse.1b39201f.png": "/https//pagnol237.github.io/app-landing-page/static/media/olinecourse.1b39201f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d29fda80.js",
+    "static/css/2.ae9e5f60.chunk.css",
+    "static/js/2.4a223154.chunk.js",
+    "static/css/main.0ab22ed5.chunk.css",
+    "static/js/main.4d47694d.chunk.js"
+  ]
+}
